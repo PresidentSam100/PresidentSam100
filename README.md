@@ -1,11 +1,11 @@
+👋 Greetings! I want to make sure you are in the right place. This is the LinkedIn profile of Sam Lu: A current student at the University of Texas at Austin :D
 
+👨‍💻 I'm deeply passionate about the application of technologies in business, quantitative finance, socioeconomics, and education and how they can improve people's lives.
 
-👋 Hi! My name is Sam Lu, and I'm a student at UT Austin majoring in [Computer Science](https://www.cs.utexas.edu/).
+🖥️ I'm especially interested in exploring the fields of SWE/SDE, Quant, AI/ML, Data Science, Fintech, Biotech, Cybersecurity, and Game Development during my undergraduate years.
 
-📕 I mostly work with Java, C#, C/C++, and Python, but I have experience with technologies like R, SQL, and Kotlin.
+🏫 At school, I can be seen leading outreach for the Electronic Game Developers Society, helping students in multivariable calculus as a teaching assistant, or designing a cool rocket for Longhorn Rocketry Association.
 
-💻 I have worked at both large and small companies in technology related roles, building AI models, data visualizations, and mobile apps. 
+😁 Outside of school, I enjoy playing table tennis, exploring the cities, trying out new restaurants (I’m open to any recommendations), and listening to epic video game songs.
 
-⚙ I'm primarily interested in AI/ML, software engineering, and data science, but I’m also interested in exploring other fields such as cybersecurity and finance.
-
-☎ You can reach out to me by email at [samlu@utexas.edu](samlu@utexas.edu), [LinkedIn](https://www.linkedin.com/in/samblu/) @samblu, and explore the rest of my projects here.
+✉️ Whether you're a recruiter, an experienced professional, or even a college student, I'd love to have a chat! Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/samblu/) @samblu or reach out at: [samlu@utexas.edu](samlu@utexas.edu)
