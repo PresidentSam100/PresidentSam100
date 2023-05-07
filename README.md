@@ -8,4 +8,4 @@
 
 😁 Outside of school, I enjoy playing table tennis, exploring the cities, trying out new restaurants (I’m open to any recommendations), and listening to epic video game songs.
 
-✉️ Whether you're a recruiter, an experienced professional, or even a college student, I'd love to have a chat! Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/samblu/) @samblu or reach out at: [samlu@utexas.edu](samlu@utexas.edu)
+✉️ Whether you're a recruiter, an experienced professional, or even a college student, I'd love to have a chat! Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/samblu/) @samblu or reach out through my [Email](mailto:samlu@utexas.edu)
