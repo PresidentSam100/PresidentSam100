@@ -10,7 +10,7 @@ What I'm currently working on right now and hope to complete this summer:
 
 Stuff I have worked on in the past:
 1. MyBuddy: A mobile app that helps aid people with autism in social interactions using deep learning techniques.
-2. Data Structures Honors (CS314H) projects for my college (Private as per course syllabus)
+2. Data Structures Honors (CS314H) projects like Tetris, Boggle, and Web Scraper for my college (Private as per course syllabus)
 3. Many Physics, Chemistry, and Mathematical Models that showcase various scientific phenomenon in real-time.
 4. A few research case studies on various tragedies like the Titanic sinking and a pandemic that shall not be named.
 5. Some Java video game stuff (Note: please use Unity and C# for game development, it's 10x better)
