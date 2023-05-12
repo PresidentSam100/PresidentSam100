@@ -1,4 +1,31 @@
-👋 Greetings! I want to make sure you are in the right place. This is the GitHub profile of Sam Lu: A current student at the University of Texas at Austin
+## Welcome 👋
+
+Greetings! I want to make sure you are in the right place. This is the GitHub profile of Sam Lu: A current student at the University of Texas at Austin.
+
+## Contact 📧
+
+Feel free to follow my [GitHub](https://github.com/PresidentSam100/), connect with me on [LinkedIn](https://www.linkedin.com/in/samblu/) or reach out through my [Email](mailto:samlu@utexas.edu)
+
+## Languages 📖
+
+* Advanced
+  * Java
+  * Python
+  * SQL
+  * R
+  * C#
+  * C
+  * C++
+* Intermediate
+  * JavaScript
+  * TypeScript
+  * HTML
+  * CSS
+  * MATLAB
+  * Swift
+  * Assembly
+
+## Projects 💻
 
 What I'm currently working on right now and hope to complete this summer:
 1. Coding a personal website using HTML, CSS, and JavaScript (cuz I procrastinated way too much on this lol).
@@ -15,5 +42,3 @@ Stuff I have worked on in the past:
 4. A few research case studies on various tragedies like the Titanic sinking and a pandemic that shall not be named.
 5. Some Java video game stuff (Note: please use Unity and C# for game development, it's 10x better)
 6. Competitive Programming code solutions from some HS programming contests like Code Quest and Battle of the Brains.
-
-Feel free to follow my GitHub, connect with me on [LinkedIn](https://www.linkedin.com/in/samblu/) or reach out through my [Email](mailto:samlu@utexas.edu)
