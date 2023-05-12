@@ -8,22 +8,13 @@ Feel free to follow my [GitHub](https://github.com/PresidentSam100/), connect wi
 
 ## Languages 📖
 
-* Advanced
-  * Java
-  * Python
-  * SQL
-  * R
-  * C#
-  * C
-  * C++
-* Intermediate
-  * JavaScript
-  * TypeScript
-  * HTML
-  * CSS
-  * MATLAB
-  * Swift
-  * Assembly
+**Advanced:**
+
+Java, Python, SQL, R, C#, C, C++
+
+**Intermediate:**
+
+JavaScript, TypeScript, HTML, CSS, MATLAB, Swift, Assembly
 
 ## Projects 💻
 
