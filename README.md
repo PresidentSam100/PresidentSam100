@@ -1,20 +1,20 @@
 <h1 align="center">Hi 👋, I'm Sam Lu</h1>
-<h3 align="center">A passionate student studying computer science at the University of Texas at Austin</h3>
+<h3 align="center">A passionate student studying Computer Science at the University of Texas at Austin</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=presidentsam100&label=Profile%20views&color=0e75b6&style=flat" alt="presidentsam100" /> </p>
 
 - 🔭 I’m currently working on **Many projects including:**
 
   - **Doing some LeetCode/NeetCode/AlgoExpert/ProgrammingExpert/StrataScratch questions to prep for technical interviews.**
-  - **Designing a one-button game for [Electronic Game Developers Society (EGaDS)](https://discord.gg/rREcZd72Az)**
+  - **Designing a one-button game for [Electronic Game Developers Society (EGaDS)](https://discord.gg/rREcZd72Az) using Unity and C#**
   - **Creating a data visualization to show off my Tableau talents, my SQL specialties, and my R rizz.**
   - **Working on many other smaller side projects with other languages I know.**
 
 - 👯 I’m looking to collaborate on **Building a Swift iOS mobile app that helps people stop forgetting personal belongings.**
 
-- 🤝 I’m looking for help with **Coding a personal website using HTML, CSS, and JavaScript (cuz I procrastinated way too much on this lol).**
+- 🤝 I’m looking for help with **Coding a personal website using HTML, CSS, and JavaScript (cuz I procrastinated too much on this lol).**
 
-- 💬 Ask me about **hackathons, CTFs, competitive programming, startups, investing, puzzle hunts, table tennis, traveling, movies, and video games**
+- 💬 Ask me about **hackathons, CTFs, competitive programming, startups, investing, puzzle hunts, table tennis, traveling, and movies**
 
 - 📫 How to reach me **samlu@utexas.edu**
 
