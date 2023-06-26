@@ -28,6 +28,8 @@
   - Some Java video game stuff (Note: please use Unity and C# for game development, it's 10x better)
   - Competitive Programming code solutions from some HS programming contests like Code Quest and Battle of the Brains.
 
+[GitHub README generator I used.](https://rahuldkjain.github.io/gh-profile-readme-generator/)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/samblu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samblu" height="30" width="40" /></a>
