@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **Building a Swift iOS mobile app that helps people stop forgetting personal belongings.**
 
-- 🤝 I’m looking for help with **Coding a personal website using HTML, CSS, and JavaScript (cuz I procrastinated too much on this lol).**
+- 🤝 I’m looking for help with **Coding a personal website that has my portfolio and a blog feature using HTML, CSS, and JavaScript.**
 
 - 💬 Ask me about **hackathons, CTFs, competitive programming, startups, investing, puzzle hunts, table tennis, traveling, and movies**
 
@@ -23,7 +23,7 @@
 - Stuff I have worked on in the past:
   - MyBuddy: A mobile app that helps aid people with autism in social interactions using deep learning techniques.
   - Data Structures Honors (CS314H) projects like Tetris, Boggle, and Web Scraper for my college (Private as per course syllabus)
-  - Many Physics, Chemistry, and Mathematical Models, all of which showcase various scientific phenomena in real time.
+  - Many Physics, Chemistry, and Mathematical Models, all of which showcase various scientific phenomena in real-time.
   - A few research case studies on various tragedies like the Titanic sinking and a pandemic that shall not be named.
   - Some Java video game stuff (Note: please use Unity and C# for game development, it's 10x better)
   - Competitive Programming code solutions from some HS programming contests like Code Quest and Battle of the Brains.
