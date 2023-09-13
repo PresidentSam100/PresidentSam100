@@ -6,9 +6,9 @@
 - 🔭 I’m currently working on **Many projects including:**
 
   - **Doing some LeetCode/NeetCode/AlgoExpert/InterviewPen/ProgrammingExpert/StrataScratch/CSES questions to prep for technical interviews. (hmu if you know any similar sites)**
-  - **Designing a one-button game for [Electronic Game Developers Society (EGaDS)](https://discord.gg/rREcZd72Az) using Unity and C#**
+  - **Communications (and a bit of outreach) [Electronic Game Developers Society (EGaDS)](https://discord.gg/rREcZd72Az). We develop games using Unity and C#**
   - **Creating lots of data visualization to show off my Tableau talents, my SQL specialties, and my R rizz.**
-  - **Working on many other smaller side projects with other languages I know.**
+  - **Working on many other smaller side projects with other languages I know. Like a [personal portfolio site](https://presidentsam100.github.io/) I made this summer.**
 
 - 👯 I’m looking to collaborate on **Building a Swift iOS mobile app that helps people stop forgetting personal belongings.**
 
