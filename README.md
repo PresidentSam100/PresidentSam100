@@ -1,14 +1,17 @@
 <h1 align="center">Hi 👋, I'm Sam Lu</h1>
-<h3 align="center">A passionate student studying Computer Science at the University of Texas at Austin</h3>
+<h2 align="center">CS (Honors) + Math @ UT Austin</h2>
+<h3 align="center">Work towards my goal of becoming a successful Software Engineer at a top company!</h3>
+<h3 align="center">Driven by my desire to help my communities and society through meaningful code and projects</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=presidentsam100&label=Profile%20views&color=0e75b6&style=flat" alt="presidentsam100" /> </p>
 
 - 🔭 I’m currently working on **Many projects including:**
 
-  - **Doing some LeetCode/NeetCode/AlgoExpert/InterviewPen/ProgrammingExpert/StrataScratch/CSES questions to prep for technical interviews. (hmu if you know any similar sites)**
+  - Current Position: **Software Engineering Intern** (R&D) at **[Aristocrat](https://www.aristocrat.com/)**.
   - **Communications (and a bit of outreach) [Electronic Game Developers Society (EGaDS)](https://discord.gg/rREcZd72Az). We develop games for fun!**
-  - **Creating lots of data visualization to show off my Tableau talents, my SQL specialties, and my R rizz.**
-  - **Working on many other smaller side projects on my bucket list. Like a [personal portfolio site](https://presidentsam100.github.io/) I made this summer.**
+  - Creating an entire **Operating System** from scratch primarily using C/C++ (pair/group programming is fun).
+  - Doing some LeetCode/NeetCode/AlgoExpert/InterviewPen/ProgrammingExpert/StrataScratch/CSES stuff for **technical interviews**.
+  - Working on many other smaller side projects on my bucket list. Like a **[personal portfolio site](https://presidentsam100.github.io/)** I made this summer.
 
 - 👯 I’m looking to collaborate on **Building a Swift iOS mobile app that helps people stop forgetting personal belongings.**
 
@@ -16,9 +19,9 @@
 
 - 💬 Ask me about **hackathons, CTFs, competitive programming, startups, investing, puzzle hunts, table tennis, traveling, and movies**
 
-- 📫 How to reach me **samlu@utexas.edu**
+- 📫 Feel free to reach out to me at: **samlu@utexas.edu**
 
-- ⚡ Fun fact **I am double jointed**
+- ⚡ Fun fact: **I am double jointed**
 
 - Stuff I have worked on in the past:
   - MyBuddy: A mobile app that helps aid people with autism in social interactions using deep learning techniques.
@@ -28,7 +31,7 @@
   - Some Java video game stuff (Note: please use Unity and C# for game development, it's 10x better)
   - Competitive Programming code solutions from some HS programming contests like Code Quest and Battle of the Brains.
 
-[GitHub README generator I used.](https://rahuldkjain.github.io/gh-profile-readme-generator/)
+[GitHub README generator I was inspired by.](https://rahuldkjain.github.io/gh-profile-readme-generator/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
