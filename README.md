@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sam Lu</h1>
-<h2 align="center">CS (Honors) + Math @ UT Austin</h2>
-<h3 align="center">Work towards my goal of becoming a successful Software Engineer at a top company!</h3>
-<h3 align="center">Driven by my desire to help my communities and society through meaningful code and projects</h3>
+<h2 align="center">Honors CS + Math @ UT Austin</h2>
+<h3 align="center">Seeking 2024 Internship Opportunities in Tech</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=presidentsam100&label=Profile%20views&color=0e75b6&style=flat" alt="presidentsam100" /> </p>
 
@@ -15,7 +14,7 @@
 
 - 👯 I’m looking to collaborate on **Building a Swift iOS mobile app that helps people stop forgetting personal belongings.**
 
-- 🤝 I’m looking for help with **Coding a personal website that has my portfolio and a blog feature using HTML, CSS, and JavaScript.**
+- 🤝 I’m looking for help with **Finding an internship or **
 
 - 💬 Ask me about **hackathons, CTFs, competitive programming, startups, investing, puzzle hunts, table tennis, traveling, and movies**
 
