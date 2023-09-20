@@ -14,7 +14,7 @@
 
 - 👯 I’m looking to collaborate on **Building a Swift iOS mobile app that helps people stop forgetting personal belongings.**
 
-- 🤝 I’m looking for help with **Finding an internship or **
+- 🤝 I’m looking for help with **A Stealth Startup that uses modern technology to combat cyberbullying, spam, phishing, etc.**
 
 - 💬 Ask me about **hackathons, CTFs, competitive programming, startups, investing, puzzle hunts, table tennis, traveling, and movies**
 
@@ -27,7 +27,7 @@
   - Data Structures Honors (CS314H) projects like Tetris, Boggle, and Web Scraper for my college (Private as per course syllabus)
   - Many Physics, Chemistry, and Mathematical Models, all of which showcase various scientific phenomena in real-time.
   - A few research case studies on various tragedies like the Titanic sinking and a pandemic that shall not be named.
-  - Some Java video game stuff (Note: please use Unity and C# for game development, it's 10x better)
+  - Some Java video game stuff (Note: please use Unity and C# for game development, it's 10x better) (Edit: My comment on Unity aged well...)
   - Competitive Programming code solutions from some HS programming contests like Code Quest and Battle of the Brains.
 
 [GitHub README generator I was inspired by.](https://rahuldkjain.github.io/gh-profile-readme-generator/)
