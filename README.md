@@ -17,7 +17,7 @@
 
 - 🤝 I’m looking for help with **A Stealth Startup that uses modern technology to combat cyberbullying, spam, phishing, etc.**
 
-- 💬 Ask me about **startups, hackathons, investing, CTFs, competitive programming, puzzles, table tennis, photography, and blogging**
+- 💬 Ask me about **startups, hackathons, investing, CTFs, competitive coding, puzzles, ping pong, photography, and blogging**
 
 - 📫 Feel free to reach out to me at: **samlu@utexas.edu**
 
