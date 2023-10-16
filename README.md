@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sam Lu</h1>
-<h2 align="center">Honors CS + Math @ UT Austin</h2>
+<h2 align="center">Honors Computer Science and Mathematics @ UT Austin</h2>
 <h3 align="center">Seeking 2024 Internship Opportunities in Tech</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=presidentsam100&label=Profile%20views&color=0e75b6&style=flat" alt="presidentsam100" /> </p>
