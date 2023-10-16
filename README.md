@@ -9,8 +9,8 @@
   - Current Position: **Software Engineering Intern** (R&D) at **[Aristocrat](https://www.aristocrat.com/)**.
   - **Communications (and a bit of outreach) [Electronic Game Developers Society (EGaDS)](https://discord.gg/rREcZd72Az). We develop games for fun!**
   - Creating an entire **Operating System** from scratch primarily using C/C++ (pair/group programming is fun).
-  - Designing a Drug App that provides information on conditions, treatments, and side-effects geared towards Appalachian communities 
-  - Doing some LeetCode/NeetCode/AlgoExpert/InterviewPen/ProgrammingExpert/StrataScratch/CSES stuff for **technical interviews**.
+  - Designing a Drug App that provides info on conditions, treatments, and side-effects geared toward Appalachian communities.
+  - Doing some LeetCode/NeetCode/AlgoExpert and many related practice sites to prepare for **technical interviews**.
   - Working on many other smaller side projects on my bucket list. Like a **[personal portfolio site](https://presidentsam100.github.io/)** I made this summer.
 
 - 👯 I’m looking to collaborate on **Building a Swift iOS mobile app that helps people stop forgetting personal belongings.**
