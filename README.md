@@ -9,6 +9,7 @@
   - Current Position: **Software Engineering Intern** (R&D) at **[Aristocrat](https://www.aristocrat.com/)**.
   - **Communications (and a bit of outreach) [Electronic Game Developers Society (EGaDS)](https://discord.gg/rREcZd72Az). We develop games for fun!**
   - Creating an entire **Operating System** from scratch primarily using C/C++ (pair/group programming is fun).
+  - Designing a Drug App that provides information on conditions, treatments, and side-effects geared towards Appalachian communities 
   - Doing some LeetCode/NeetCode/AlgoExpert/InterviewPen/ProgrammingExpert/StrataScratch/CSES stuff for **technical interviews**.
   - Working on many other smaller side projects on my bucket list. Like a **[personal portfolio site](https://presidentsam100.github.io/)** I made this summer.
 
@@ -27,7 +28,7 @@
   - Data Structures Honors (CS314H) projects like Tetris, Boggle, and Web Scraper for my college (Private as per course syllabus)
   - Many Physics, Chemistry, and Mathematical Models, all of which showcase various scientific phenomena in real-time.
   - A few research case studies on various tragedies like the Titanic sinking and a pandemic that shall not be named.
-  - Some Java video game stuff (Note: please use Unity and C# for game development, it's 10x better) (Edit: My comment on Unity aged well...)
+  - Some video game stuff that happened as early as middle school and got me interested in programming and computer science.
   - Competitive Programming code solutions from some HS programming contests like Code Quest and Battle of the Brains.
 
 [GitHub README generator I was inspired by.](https://rahuldkjain.github.io/gh-profile-readme-generator/)
