@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on **Many projects including:**
 
   - Current Position: **Software Engineering Intern** (R&D) at **[Aristocrat](https://www.aristocrat.com/)**.
-  - Active **open-source** contributor of **[PittCSC + Simplify Summer 2024 Internships GitHub Repository](https://github.com/SimplifyJobs/Summer2024-Internships)**
+  - Top 20 of 690+ **open-source** contributor of **[PittCSC + Simplify Summer 2024 Internships GitHub Repository](https://github.com/SimplifyJobs/Summer2024-Internships)**
   - **Communications (and a bit of outreach) [Electronic Game Developers Society (EGaDS)](https://discord.gg/rREcZd72Az). We develop games for fun!**
   - Creating an entire **Operating System** from scratch primarily using C/C++ (pair/group programming is fun).
   - Designing a Drug App that provides info on conditions, treatments, and side-effects geared toward Appalachian communities.
