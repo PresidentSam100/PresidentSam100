@@ -6,11 +6,11 @@
 
 - 🔭 I’m currently working on **Many projects including:**
 
-  - Current Position: **Software Engineering Intern** (R&D) at **[Aristocrat](https://www.aristocrat.com/)**.
+  - Current Position: **Data Analyst Intern (Quantitative)** at **[Integra FEC](https://www.integrafec.com/)**.
   - Maintainer and moderator of **[PittCSC + Simplify Summer 2024 Internships GitHub Repository](https://github.com/SimplifyJobs/Summer2024-Internships) (25k+ stars)**
   - **Communications (and a bit of outreach) [Electronic Game Developers Society (EGaDS)](https://discord.gg/rREcZd72Az). We develop games for fun!**
   - Creating an entire **Operating System** from scratch primarily using C/C++ (pair/group programming is fun).
-  - Designing a Drug App that provides info on conditions, treatments, and side-effects geared toward Appalachian communities.
+  - Developing a Machine Learning + Game Theory dual threat to prepare people for quantitative trading interviews 
   - Doing some LeetCode/NeetCode/AlgoExpert and many related practice sites to prepare for **technical interviews**.
   - Working on many other smaller side projects on my bucket list. Like a **[personal portfolio site](https://presidentsam100.github.io/)** I made this summer.
 
