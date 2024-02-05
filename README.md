@@ -4,7 +4,6 @@
 
 - 🔭 I’m currently working on **Many projects including:**
 
-  - Current Position: **Data Analyst Intern (Quantitative)** at **[Integra FEC](https://www.integrafec.com/)**.
   - Maintainer and moderator of **[PittCSC + Simplify Summer 2024 Internships GitHub Repository](https://github.com/SimplifyJobs/Summer2024-Internships) (25k+ stars)**
   - **Communications (and a bit of outreach) [Electronic Game Developers Society (EGaDS)](https://discord.gg/rREcZd72Az). We develop games for fun!**
   - Creating an entire **Operating System** from scratch primarily using C/C++ (pair/group programming is fun).
