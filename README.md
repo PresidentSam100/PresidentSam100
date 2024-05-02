@@ -2,6 +2,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=presidentsam100&label=Profile%20views&color=0e75b6&style=flat" alt="presidentsam100" /> </p>
 
+Learn more about me at my **[personal portfolio site](https://presidentsam100.github.io/)**
+
 - 🔭 I’m currently working on **Many projects including:**
 
   - Maintainer and moderator of **[PittCSC + Simplify Summer 2024 Internships GitHub Repository](https://github.com/SimplifyJobs/Summer2024-Internships) (25k+ stars)**
@@ -9,7 +11,6 @@
   - Creating an entire **Operating System** from scratch primarily using C/C++ (pair/group programming is fun).
   - Developing a Machine Learning + Game Theory dual threat to prepare people for quantitative trading interviews 
   - Doing some LeetCode/NeetCode/AlgoExpert and many related practice sites to prepare for **technical interviews**.
-  - Working on many other smaller side projects on my bucket list. Like a **[personal portfolio site](https://presidentsam100.github.io/)** I made this summer.
 
 - 👯 I’m looking to collaborate on **Building a Swift iOS mobile app that helps people stop forgetting personal belongings.**
 
