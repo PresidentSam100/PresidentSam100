@@ -22,6 +22,7 @@
 - ⚡ Fun fact: **I am double jointed**
 
 - Stuff I have worked on in the past:
+  - A lot of cool hackathon projects at hackathons like HackTX, HackHarvard, PennApps, HackPrinceton, TreeHacks, etc.
   - MyBuddy: A mobile app that helps aid people with autism in social interactions using deep learning techniques.
   - Data Structures Honors (CS314H) projects like Tetris, Boggle, and Web Scraper for my college (Private as per course syllabus)
   - Many Physics, Chemistry, and Mathematical Models, all of which showcase various scientific phenomena in real-time.
