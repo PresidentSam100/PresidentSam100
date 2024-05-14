@@ -10,6 +10,9 @@ class SoftwareEngineer:
     def __init__(self):
         self.name = "Sam Lu"
         self.school = "The University of Texas at Austin"
+        self.major = "Computer Science"
+        self.degree = "Bachelor of Science"
+        self.honors = "Turing Scholar"
 
     def say_hi(self):
         print("Hello all you amazing people.")
