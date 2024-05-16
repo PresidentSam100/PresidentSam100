@@ -16,7 +16,7 @@ class SoftwareEngineer:
         self.hackathon_wins = ["HackTX", "HackHarvard", "TreeHacks", "PennApps"]
 
     def say_hi(self):
-        print("Hello all you amazing people. I")
+        print("Hello all you amazing people!")
 
 me = SoftwareEngineer()
 me.say_hi()
