@@ -13,9 +13,10 @@ class SoftwareEngineer:
         self.major = "Computer Science"
         self.degree = "Bachelor of Science"
         self.honors = "Turing Scholar"
+        self.hackathon_wins = ["HackTX", "HackHarvard", "TreeHacks", "PennApps"]
 
     def say_hi(self):
-        print("Hello all you amazing people.")
+        print("Hello all you amazing people. I")
 
 me = SoftwareEngineer()
 me.say_hi()
