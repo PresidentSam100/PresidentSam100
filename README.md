@@ -14,6 +14,7 @@ class SoftwareEngineer:
         self.degree = "Bachelor of Science"
         self.honors = "Turing Scholar"
         self.hackathon_wins = ["HackTX", "HackHarvard", "TreeHacks", "PennApps"]
+        self.programming_languages = ["Java", "Python", "C++", "JavaScript", "etc."]
 
     def say_hi(self):
         print("Hello all you amazing people!")
