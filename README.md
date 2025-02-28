@@ -5,3 +5,5 @@
 Learn more about me at my **[personal portfolio site](https://presidentsam100.github.io/)**
 
 I also am a maintainer for the [Summer 2025 Tech Internships by Pitt CSC & Simplify Repo](https://github.com/SimplifyJobs/Summer2025-Internships) 😄
+
+P.S. Check out my [GitHub](https://github.com/PresidentSam100) to experience recursion in real-time
