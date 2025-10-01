@@ -4,6 +4,10 @@
 
 Learn more about me at my **[personal portfolio site](https://presidentsam100.github.io/)**
 
-I also am a maintainer for the [Summer 2026 Tech Internships by Pitt CSC & Simplify Repo](https://github.com/SimplifyJobs/Summer2026-Internships) 😄
+I am also a moderator and active maintainer for these amazing GitHub repos:
+
+[Summer 2026 Tech Internships by Pitt CSC & Simplify Repo](https://github.com/SimplifyJobs/Summer2026-Internships) 😄
+
+[2026 New Grad Positions by Coder Quad and Simplify](https://github.com/SimplifyJobs/New-Grad-Positions) 😎
 
 P.S. Check out my [GitHub](https://github.com/PresidentSam100) to experience recursion in real-time
